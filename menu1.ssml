@@ -1,0 +1,7 @@
+<voice gender="male">
+  <prosody rate="medium">
+    <emphasis>Hello<break time="1s"/></emphasis>
+    <emphasis level="strong">this is the Auto Zone BOT</emphasis><break time="500ms"/>
+    You can say place order, store information, directions, store hours or something else.
+  </prosody>
+</voice>
